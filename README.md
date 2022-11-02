@@ -1,1 +1,1 @@
-# Rust-Solana-Worshop
+# Rust @ Solana Worshop
